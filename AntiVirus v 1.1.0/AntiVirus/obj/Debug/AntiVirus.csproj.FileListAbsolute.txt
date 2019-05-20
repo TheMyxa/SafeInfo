@@ -1,0 +1,71 @@
+D:\Project\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe.config
+D:\Project\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+D:\Project\AntiVirus\AntiVirus\bin\Debug\AntiVirus.pdb
+D:\Project\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csprojResolveAssemblyReference.cache
+D:\Project\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+D:\Project\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+D:\Project\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.Cache
+D:\Project\AntiVirus\AntiVirus\obj\Debug\AntiVirus.exe
+D:\Project\AntiVirus\AntiVirus\obj\Debug\AntiVirus.pdb
+D:\Project\AntiVirus\AntiVirus\obj\Debug\AntiVirus.addSign.resources
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\obj\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csprojResolveAssemblyReference.cache
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\obj\Debug\AntiVirus.addSign.resources
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.Cache
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\Антивирус\Лабораторные\Лабораторная работа № 3\AntiVirus\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.addSign.resources
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.Cache
+C:\Users\worge\Desktop\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.csprojResolveAssemblyReference.cache
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.csprojResolveAssemblyReference.cache
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.addSign.resources
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\worge\Desktop\Антивирус\backup\05.05.19 21.32\AntiVirus v 0.3.5.2\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.Cache
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\obj\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\obj\Debug\AntiVirus.addSign.resources
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\worge\Desktop\AntiVirus v 1.0.0\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.Cache
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.addSign.resources
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\worge\Desktop\antivirus-master-final\свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.Cache
+C:\Users\worge\Desktop\antivirus-master-final\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.csprojAssemblyReference.cache
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.addSign.resources
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.cache
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.csproj.CopyComplete
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\MSII\Desktop\Свят\final\AntiVirus v 1.1.0\AntiVirus\obj\Debug\AntiVirus.pdb
